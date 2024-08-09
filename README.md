@@ -16,6 +16,8 @@
 
 # Meu Perfil
 
+<a href="https://app.daily.dev/alexmaduenodelcampo"><img src="https://api.daily.dev/devcards/v2/RPTfkV9MntunWBZmDENDv.png?type=default&r=95i" width="356" alt="Alex Madueno Del Campo's Dev Card"/></a>
+
 ## Backend
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="50">
